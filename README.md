@@ -7,9 +7,22 @@
 
 ## Overview
 
+This repository contains an interactive dashboard developed in Tableau that displays information about mass shootings in the United States. The dashboard is based on an updated dataset and provides a clear and concise visualization of information related to these tragic events.
+
 The purpose of this project is to to apply our knowledge gained from module 2 of this program. In this project, our main task was selecting a dataset, utilizing Tableau or Power BI to explore it, and creating a Story/Dashboard that presents the insights you have extracted from the data. It is important to showcase your proficiency and the concepts learned throughout the chapter.
 
 ---
+
+## Repository Structure
+
+The repository is organized as follows:
+
+/data: This folder contains the data files used in the dashboard. It includes a CSV file with detailed information about mass shootings in the United States and the final csv file that was used to create the data model.
+/images: Here you will find the images used in the README and in the dashboard itself.
+/notebooks: Jupyter file used to clean and filter data.
+/dashboard.txt: This is the text file including the Tableau Public link. You can open it and explore the visualization using Tableau Desktop or Tableau Public.
+/README.md: file explaining the job done.
+
 
 ## Steps followed
 
@@ -24,66 +37,17 @@ I have used a dataset that includes information about shootings in the United St
 - Were these firearms obtained legally?
 
 
-## **Deliverables:**
+## Dashboard features 
 
-A GitHub repository including:
+The Tableau dashboard on mass shootings in the United States offers various functionalities that allow you to visualize and better understand the information. Some of the main features include:
 
-- A `data model` showing the table schemas and relations between them. You may use an application such as [DBdiagram](https://dbdiagram.io/).
-
-- A `functional design mockup` where the dashboard parts and functionalities must be represented. This document should be an starting point, meaning that the final product can be different. You may use any tool you want, however, it is highly recommended to use _ink and paper_!!!
-
-- A `BI Report/Dashboard` meeting the requeriments specified in __Challenge 1__. If you use __Tableau__ you need to include the _Tableau Public link_ to the reporting app. If you use __Power BI__ you need to include the `.pbix` file in your repo. 
-
-- A `README.md` file explaining the job done, the reporting app architecture and your main conclusions after the exploratory data analysis. You may find more info of how to build a README file [here](https://github.com/potacho/data-project-template/blob/master/README.md).
+- Geographic Visualization: The interactive map shows the locations of mass shootings in the United States, allowing you to identify geographic patterns and areas of higher incidence.
 
 
+- Statistics and Summary: A panel with key statistics is provided, such as the total number of mass shootings, the number of victims, and relevant demographic information. This helps to get a quick overview of the data.
 
----
+- Information about weapons and mental health issues.
 
+## Contributions 
 
-
-## **Presentation:**
-
-- __Time:__ 5 minutes __sharp__.
-
-- __Content:__ eventhough the perfect report/dashboard should be selfexplanatory, you'll need to explain the reporting architecture and show its funtionalities. Also, you'll need to give actionable insights about your data and support your arguments using the report.
-
-<p align="center"><img src="https://media.giphy.com/media/1Ygis29YXMS35cW90I/giphy.gif"></p>
-
-
-> __IMPORTANT NOTE:__ You only need your BI Report/Dashboard for the presentation (i.e.: no Jupyter, no PowerPoint/Canva)
-
-
-
----
-
-
-
-## __Challenge 1: BI Report/Dashboard__
-
-BI Reports and Dashboards are powerful tools for communicating important information __at-a-glance__. The goal of this challenge is to build a BI Report/Dashboard using a dataset of your choice. Bear in mind the __purpose__ of the report and build a __normalized__ model that fits your visualization requeriments and interactivity performance.
-
-You may use either __Tableau__ or __Power BI__ as your main tool for creating your reporting app. There are not restictions about the data source location or format (local drive, database, multiformat, etc.).
-
-> __Tip:__ you should first consider which data and which indicators should be put on the BI Report/Dashboard. Then, decompose the key indicators from multiple dimensions. 
-
-<p align="center"><img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif"></p>
-
-
-A BI Report/Dashboard is not exactly a sequential set of descriptive charts. Instead, a BI Report/Dashboard should be __a single interactive interface built around a specific objetive and which components are logically arranged in order to provide data relevant insights effectively__.
-
-
-
----
-
-
-
-## **References:**
-
-- [Visual Analysis Best Practices](https://github.com/ih-datapt-mad/ih_datamadpt0223_project_m2/blob/main/images/visual-analysis-guidebook.pdf)
-
-- [Financial Times Visual Vocabulary](https://github.com/ft-interactive/chart-doctor/tree/master/visual-vocabulary)
-
-- [Tableau](https://github.com/ih-datapt-mad/dataptmad0223_lessons/blob/main/m2/20230510_bi_tableau.md)
-
-- [Power BI](https://github.com/ih-datapt-mad/dataptmad0223_lessons/blob/main/m2/20230513_bi_pbi.md)
+Contributions are welcome! If you want to improve the dashboard or add new features, you can do so through a pull request. Be sure to describe your changes and provide clear explanations.
