@@ -5,13 +5,23 @@
 
 <p align="left"><img src="https://unilytics.com/wp-content/uploads/2017/02/challenge-accepted.png"></p>
 
-Data analytics is oftentimes referred to as business intelligence, BI development, or product analytics. However, that is just the tip of the iceberg since the data analytics process includes activities such as data formation/creation, data cleansing, exploratory data analysis (especially this part), feature engineering, and interpretation of suggestions/predictions/results derived from advanced modelling analysis (i.e.: Machine Learning).
+## Overview
 
-For this project you will perform some of these activities in order to analyse a __dataset of your interest__.
-
+The purpose of this project is to to apply our knowledge gained from module 2 of this program. In this project, our main task was selecting a dataset, utilizing Tableau or Power BI to explore it, and creating a Story/Dashboard that presents the insights you have extracted from the data. It is important to showcase your proficiency and the concepts learned throughout the chapter.
 
 ---
 
+## Steps followed
+
+I have used a dataset that includes information about shootings in the United States in order to carry out this project. Within this dataset, you can find data such as race, year, mental health issues, location, etc. After selecting and cleaning the data, I have decided to ask myself the following questions as a guide to base my dashboard on:
+
+- Which racial group has conducted the most shootings in the USA?
+- Total number of cases and individuals affected
+- Number of victims and the year of the shooting
+- Did the perpetrators have mental health issues?
+- Where were these firearms obtained?
+- What types of firearms were used?
+- Were these firearms obtained legally?
 
 
 ## **Deliverables:**
