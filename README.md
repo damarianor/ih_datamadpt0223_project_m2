@@ -31,7 +31,7 @@ The repository is organized as follows:
 ```/README.md:``` file explaining the job done.
 
 ![Data Model](images/datamodel.png)
-![Mock Up](images/mockup.HEIC)
+![Mock Up](images/mockup.png)
 
 
 ## Steps followed
