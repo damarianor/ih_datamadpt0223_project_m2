@@ -17,17 +17,17 @@ The purpose of this project is to to apply our knowledge gained from module 2 of
 
 The repository is organized as follows:
 
-/data: This folder contains the data files used in the dashboard. It includes a CSV file with detailed information about mass shootings in the United States and the final csv file that was used to create the data model.
+```/data:``` This folder contains the data files used in the dashboard. It includes a CSV file with detailed information about mass shootings in the United States and the final csv file that was used to create the data model.
 
-/images: Here you will find the images used in the README and in the dashboard itself.
+```/images:``` Here you will find the images used in the README and in the dashboard itself.
 
-/notebooks: Jupyter file used to clean and filter data.
+```/notebooks:``` Jupyter file used to clean and filter data.
 
-/dashboard.txt: This is the text file including the Tableau Public link. You can open it and explore the visualization using Tableau Desktop or Tableau Public.
+```/dashboard.txt:``` This is the text file including the Tableau Public link. You can open it and explore the visualization using Tableau Desktop or Tableau Public.
 
-/datamodel: showing the table schemas and relations between them.
+```/datamodel:``` showing the table schemas and relations between them.
 
-/README.md: file explaining the job done.
+```/README.md:``` file explaining the job done.
 
 ![Data Model](images/datamodel.png)
 
