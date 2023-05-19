@@ -1,7 +1,7 @@
 <p align="left"><img src="https://cdn-images-1.medium.com/max/184/1*2GDcaeYIx_bQAZLxWM4PsQ@2x.png"></p>
 
-# __ih_datamadpt0223_project_m2__
-# Project: Business Intelligence with Tableau
+# Project M2 
+# Business Intelligence with Tableau
 
 <p align="left"><img src="https://unilytics.com/wp-content/uploads/2017/02/challenge-accepted.png"></p>
 
@@ -18,10 +18,18 @@ The purpose of this project is to to apply our knowledge gained from module 2 of
 The repository is organized as follows:
 
 /data: This folder contains the data files used in the dashboard. It includes a CSV file with detailed information about mass shootings in the United States and the final csv file that was used to create the data model.
+
 /images: Here you will find the images used in the README and in the dashboard itself.
+
 /notebooks: Jupyter file used to clean and filter data.
+
 /dashboard.txt: This is the text file including the Tableau Public link. You can open it and explore the visualization using Tableau Desktop or Tableau Public.
+
+/datamodel: showing the table schemas and relations between them.
+
 /README.md: file explaining the job done.
+
+![Data Model](images/datamodel.png)
 
 
 ## Steps followed
