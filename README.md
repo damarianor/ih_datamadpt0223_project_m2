@@ -27,9 +27,11 @@ The repository is organized as follows:
 
 ```/datamodel:``` showing the table schemas and relations between them.
 
+```/functional design mockup:``` representing the dashboard parts and functionalities.
 ```/README.md:``` file explaining the job done.
 
 ![Data Model](images/datamodel.png)
+![Mock Up](images/mockup.HEIC)
 
 
 ## Steps followed
