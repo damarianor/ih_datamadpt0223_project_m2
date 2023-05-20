@@ -3,7 +3,7 @@
 # Project M2 
 # Business Intelligence with Tableau
 
-<p align="left"><img src="https://unilytics.com/wp-content/uploads/2017/02/challenge-accepted.png"></p>
+![Data Model](images/us.png)
 
 ## Overview
 
