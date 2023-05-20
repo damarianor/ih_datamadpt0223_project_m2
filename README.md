@@ -3,11 +3,7 @@
 # Project M2 
 # Business Intelligence with Tableau
 
-<<<<<<< HEAD
-![Mock Up](images/us.jpg)
-=======
 ![Data Model](images/us.jpg)
->>>>>>> f306f8069e8c825eb292c980d75bb41945ba46b2
 
 ## Overview
 
