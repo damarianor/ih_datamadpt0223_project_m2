@@ -3,7 +3,7 @@
 # Project M2 
 # Business Intelligence with Tableau
 
-![Data Model](images/us.png)
+![Data Model](images/us.jpg)
 
 ## Overview
 
